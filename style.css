@@ -344,19 +344,19 @@ main {
   box-shadow: 1px 1px 15px #FFF;
 }
 .first-project {
-  background-image: url(../assets/img/museum.png);
+  background-image: url(./assets/img/museum.png);
 }
 .second-project {
-  background-image: url(../assets/img/momentum.png);
+  background-image: url(./assets/img/momentum.png);
 }
 .third-project {
-  background-image: url(../assets/img/art-quiz.png);
+  background-image: url(./assets/img/art-quiz.png);
 }
 .fourth-project {
-  background-image: url(../assets/img/christmas-task.png);
+  background-image: url(./assets/img/christmas-task.png);
 }
 .fifth-project {
-  background-image: url(../assets/img/rsLang.png);
+  background-image: url(./assets/img/rsLang.png);
 }
 .project-title {
   font-size: 20px;
